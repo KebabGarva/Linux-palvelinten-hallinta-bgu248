@@ -3,3 +3,16 @@ Command line basics revisited:
 - Tässä artikkelissa kerrataan hyödyllisiä ja välttämättömiä komentoja Linuxissa
 - Artikkeli myös kertoo tärkeistä hakemistoista.
 - Syy, miksi käytetään vielä komentoja, on esimerkiksi sen nopeus.
+
+Salt States - I want my computers like this:
+
+- Artikkelissa perehdytään saltiin
+- Ohjeistetaan luomaan master serveristä ohjeita orjille
+- Salt pystyy ohjaamaan automatisoituen vaikka nukkuessa.
+
+Raportin kirjoittaminen:
+
+- Artikkeli antaa perusteet raportin kirjoittamiseen.
+- Pahoista mokista on tehty oma osio.
+- Lyhyesti sanottuna raportointi tarkoittaa mahdollisimman täsmällistä kuvausta siitä, mitä on tehnyt
+
